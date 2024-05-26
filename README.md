@@ -1,7 +1,7 @@
-# pavelg.github.io
+# pavelgordon.github.io
 **Progress Tracker for Evolve Incremental**
 
-<https://pavelg.github.io>  
+<https://pavelgordon.github.io>  
 Forked from <http://karsen777.github.io> as not maintained
 
 Currently tracks your progress on:
